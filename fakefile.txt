@@ -483,3 +483,4 @@ Fix bug 192-1
 Minor changes 192-2
 Add docs 192-3
 Cleanup 192-4
+Add docs 192-5
