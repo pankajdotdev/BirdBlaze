@@ -449,3 +449,4 @@ Fix bug 177-5
 Minor changes 178-1
 Fix bug 178-2
 Style fixes 178-3
+Improve performance 179-1
