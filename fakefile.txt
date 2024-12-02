@@ -403,3 +403,4 @@ Minor changes 157-3
 Update README 157-4
 Improve performance 157-5
 Add new feature 158-1
+Refactor code 158-2
