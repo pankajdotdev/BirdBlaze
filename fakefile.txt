@@ -396,3 +396,4 @@ Update README 155-2
 Refactor code 155-3
 Update README 155-4
 Add new feature 156-1
+Fix bug 156-2
