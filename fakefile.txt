@@ -281,3 +281,4 @@ Update README 105-3
 Style fixes 105-4
 Update README 106-1
 Improve performance 107-1
+Refactor code 107-2
