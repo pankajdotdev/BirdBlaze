@@ -265,3 +265,4 @@ Style fixes 98-1
 Improve performance 98-2
 Add docs 98-3
 Add new feature 99-1
+Cleanup 99-2
