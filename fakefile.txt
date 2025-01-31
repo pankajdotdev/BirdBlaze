@@ -261,3 +261,4 @@ Fix bug 97-1
 Update README 97-2
 Add new feature 97-3
 Style fixes 97-4
+Style fixes 98-1
