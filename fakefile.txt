@@ -253,3 +253,4 @@ Refactor code 95-1
 Initial commit 95-2
 Update README 95-3
 Fix bug 96-1
+Add docs 96-2
