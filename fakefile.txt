@@ -247,3 +247,4 @@ Style fixes 92-2
 Add docs 93-1
 Fix bug 94-1
 Minor changes 94-2
+Update README 94-3
