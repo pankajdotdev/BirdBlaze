@@ -225,3 +225,4 @@ Update README 84-1
 Add new feature 84-2
 Improve performance 84-3
 Improve performance 84-4
+Style fixes 85-1
