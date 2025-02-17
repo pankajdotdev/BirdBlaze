@@ -216,3 +216,4 @@ Fix bug 78-2
 Minor changes 81-1
 Update README 81-2
 Cleanup 81-3
+Refactor code 81-4
