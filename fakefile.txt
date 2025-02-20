@@ -212,3 +212,4 @@ Add new feature 77-1
 Minor changes 77-2
 Add new feature 77-3
 Improve performance 78-1
+Fix bug 78-2
