@@ -198,3 +198,4 @@ Style fixes 73-2
 Add new feature 73-3
 Initial commit 74-1
 Update README 74-2
+Cleanup 74-3
