@@ -185,3 +185,4 @@ Update README 68-3
 Add new feature 68-4
 Add docs 68-5
 Add docs 69-1
+Refactor code 70-1
