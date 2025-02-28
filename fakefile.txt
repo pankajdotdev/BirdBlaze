@@ -188,3 +188,4 @@ Add docs 69-1
 Refactor code 70-1
 Minor changes 70-2
 Add new feature 70-3
+Update README 70-4
