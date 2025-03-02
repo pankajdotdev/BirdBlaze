@@ -182,3 +182,4 @@ Fix bug 67-2
 Refactor code 68-1
 Add docs 68-2
 Update README 68-3
+Add new feature 68-4
