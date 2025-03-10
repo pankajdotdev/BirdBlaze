@@ -158,3 +158,4 @@ Fix bug 60-1
 Add docs 60-2
 Improve performance 60-3
 Improve performance 60-4
+Minor changes 60-5
