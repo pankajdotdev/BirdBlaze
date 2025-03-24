@@ -120,3 +120,4 @@ Update README 44-1
 Refactor code 44-2
 Initial commit 45-1
 Add docs 46-1
+Add new feature 46-2
