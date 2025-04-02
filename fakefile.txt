@@ -100,3 +100,4 @@ Fix bug 35-4
 Improve performance 36-1
 Style fixes 36-2
 Add docs 36-3
+Style fixes 37-1
