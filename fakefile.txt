@@ -44,3 +44,4 @@ Add docs 11-5
 Cleanup 14-1
 Fix bug 15-1
 Style fixes 18-1
+Fix bug 18-2
