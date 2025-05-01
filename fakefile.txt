@@ -27,3 +27,4 @@ Cleanup 7-2
 Add docs 7-3
 Add docs 7-4
 Style fixes 7-5
+Refactor code 8-1
