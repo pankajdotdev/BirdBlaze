@@ -30,3 +30,4 @@ Style fixes 7-5
 Refactor code 8-1
 Refactor code 8-2
 Style fixes 8-3
+Add docs 8-4
